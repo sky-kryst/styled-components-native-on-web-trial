@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "styled-components-native-on-web"
+        "styled-components-native-on-web",
+        "components"
     ]
 }
